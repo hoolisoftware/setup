@@ -9,4 +9,4 @@ pip install django pillow django-rest-framework
 django-admin startproject core
 rename core server
 
-wget https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore -O .gitignore
+wget https://raw.githubusercontent.com/hoolisoftware/setup/master/python-django-drf.gitignore -O .gitignore
